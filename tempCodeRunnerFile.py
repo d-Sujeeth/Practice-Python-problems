@@ -1,0 +1,1 @@
+if int(n)*int(n)==int(pa)
